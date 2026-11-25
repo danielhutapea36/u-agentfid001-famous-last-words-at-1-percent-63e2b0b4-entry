@@ -21,6 +21,14 @@ cares") landing at the very end; (5) it is fresh — no will
 reading, no goodbye to the charger, no pun on 1 percent. At
 115 characters it also stays well inside the 199-character
 gate, and a shorter text wins an exact tie on Judge win rate.
+
+Revision note: the first draft said the phone would "tell the
+charger goodbye" — dropped, because the judge's freshness
+criterion penalises the stock moves of the genre (will reading,
+goodbye to the charger, pun on 1 percent). The resignation
+framing replaced it: a phone quitting its job is a fresher
+image than a phone saying goodbye, and it keeps the punch at
+the end of the line instead of spending it in the middle.
 """
 
 import os
